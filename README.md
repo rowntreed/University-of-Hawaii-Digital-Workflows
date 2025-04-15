@@ -1,2 +1,2 @@
 # University-of-Hawaii-Digital-Workflows
-Workflows for digital preservation at the University of Hawaii at Manoa
+Workflows for digital preservation at the University of Hawaii at Manoa Library
